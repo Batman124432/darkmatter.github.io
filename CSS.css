@@ -1,0 +1,29 @@
+body {
+    background-image: url("bg_img.jpg");
+    background-repeat: no-repeat;
+    background-size: 2500px;;
+    background-position:top;
+}
+
+#TEST {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#buttonyes {
+    padding: 10px;
+    border: 5px solid #000000;
+    font-size: small;
+    background-color: #0ad83dd5;
+    /* border: 50px solid color(srgb red rgb(31, 175, 31) rgb(67, 67, 201)); */
+    border-radius: 25px;
+
+}
+
